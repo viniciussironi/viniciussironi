@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-👋 Olá, meu nome é Vinicius. Tenho 23 anos. Estudo Java e outras tecnologias há 2 anos.<br>Atualmente busco meu primeiro estágio.
+👋 Olá, meu nome é Vinicius. Estudo Java e outras tecnologias há 2 anos. Atualmente busco meu primeiro estágio.
 
 # 🌐 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-sironi) 
